@@ -1,0 +1,1 @@
+/Users/martinbartels/Documents/openframeworks.007-release/apps/_development/2011.11.17_ofxNMPT-Examples/../../../addons_martin/ofxState/ofxStateManager.cpp:108: error: no 'std::string ofxStateManager::getStateName()' member function declared in class 'ofxStateManager'
